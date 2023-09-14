@@ -1,0 +1,15 @@
+Geel: #ffcc00
+Licht Roze: #f9aecd
+Pastel Paars: #f9aecd
+Licht Blauw: #56ddf0
+Licht Groen: #c0ed0c
+Rood: #c0ed0c
+Roze: #fa339c
+Paars: #0050ff
+Blauw: #0050ff
+Groen: #2add5d
+Donker Rood: #660405
+Donker Roze: #78034a
+Donker Paars: #69197c
+Donker Blauw: #03357c
+Donker Groen: #014c35
