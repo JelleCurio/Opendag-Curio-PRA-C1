@@ -1,10 +1,46 @@
+@font-face {
+    font-family: Fellix;
+    src: url(../font/Fellix-Regular.woff2);
+}
+
+@font-face {
+    font-family: FellixBold;
+    src: url(../font/Fellix-Bold.woff2);
+}
+
 * {
+    font-family: 'Fellix';
     margin: 0;
     padding: 0;
+}
+
+/* Wrapper */
+
+.wrapper {
+    margin: 0 auto;
+    width: 80%;
+    height: 100%;
+    background-color: rgba(100, 0, 0, 0.1);
 }
 
 /* Header */
 
 header {
-    background-color: yellow;
+    
+}
+
+.topHeader {
+    height: 12.5vh;
+    background-color: #56ddf0;
+}
+
+header .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .wrapper img {
+    margin-top: -17.5px;
+    width: 200px;
 }
